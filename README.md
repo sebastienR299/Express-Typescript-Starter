@@ -3,9 +3,13 @@
 ## 📁 Clone the repository
 
 - Clone with SSH  
-``git clone git@github.com:sebastienR299/Express-Typescript-Starter.git``
+```
+git clone git@github.com:sebastienR299/Express-Typescript-Starter.git
+```
 - Clone with HTTPS  
-``git clone https://github.com/sebastienR299/Express-Typescript-Starter.git``
+```
+git clone https://github.com/sebastienR299/Express-Typescript-Starter.git
+```
 
 ## 📦 Install the dependencies
 
